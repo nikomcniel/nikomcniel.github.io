@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ZooDirectoryApp</string>
+
+    <string-array name="names">
+        <item>Bear</item>
+        <item>Giraffe</item>
+        <item>Lion</item>
+        <item>Monkey</item>
+        <item>Penguin</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>A large, heavy mammal that walks on the soles of its feet, having thick fur and a very short tail. Bears are related to the dog family but most species are omnivorous.</item>
+        <item>A large African mammal with a very long neck and forelegs, having a coat patterned with brown patches separated by lighter lines. It is the tallest living animal.</item>
+        <item>A large tawny-colored cat that lives in prides, found in Africa and northwestern India. The male has a flowing shaggy mane and takes little part in hunting, which is done cooperatively by the females.</item>
+        <item>A small to medium-sized primate that typically has a long tail, most kinds of which live in trees in tropical countries.</item>
+        <item>A large flightless seabird of the southern hemisphere, with black upper parts and white underparts and wings developed into flippers for swimming under water.</item>
+    </string-array>
+</resources>
